@@ -5,13 +5,13 @@ counter = 15
 print("Counter:",counter)
 # Float
 discount = 1.5
-print("Discount:",counter)
+print("Discount:",)
 # String
 name = "Mr Beast"
-print("Name:",counter)
+print("Name:",)
 # Boolean
 sunnyDay = False
-print("Is it Sunny:",counter)
+print("Is it Sunny:",)
 # List
 shopping = ["Banana","Eggs","Bread"]
-print("Shopping List:",counter)
+print("Shopping List:",)
